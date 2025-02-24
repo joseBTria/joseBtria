@@ -1,9 +1,4 @@
 ## Hi there 👋
-
-<div align="center">
-<p></p>
-<img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center">
-</div>
 <!--
 **joseBTria/joseBtria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
