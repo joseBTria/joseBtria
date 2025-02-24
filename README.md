@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=1F80E0&center=true&width=435&lines=Jose+Bohopo;I%C2%B4m+a+frontend+developer;React.js%2C+Next.js%2C+Typescript%2C+Javascript" alt="Typing SVG" /></a>
+  </p>
